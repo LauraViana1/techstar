@@ -1,0 +1,60 @@
+table {width: 100%;
+    height: 100vh;}
+
+td {width: 5%;
+    text-align: center;}
+
+#linha1{height: 7%;
+        background-color: #ffcbdf;
+        font-size: 16px;}
+
+ #linha2{height: 4%;
+        background-color: #F8B8D3;
+        color: aliceblue;}
+
+#linha3{height: 5%;}
+
+#linha4{height: 10%;
+        width: 100vh;
+        }
+
+#linha5{
+    height: 2%;
+    background-color: #FFEA8F;
+}
+#linha6{
+    background-color: #F8B8D3;
+    height: 6%;
+}
+#linha7{
+    height: 20%;
+}
+#linha8{
+    height: 30%;
+}
+
+        #deca {font-family: "Lexend Deca", sans-serif;}
+        #exa {font-family: "Lexend Exa", sans-serif;}
+        #exa1 {font-family: "Lexend Exa", sans-serif; text-align: left;}
+        #giga {font-family: "Lexend Giga", sans-serif;}
+        #padrao {font-family: "Lexend", sans-serif; text-align: left; color: aliceblue;}
+        #text {font-size: 36px;}
+        #text1 {text-align: left;
+                font-size: 24px;
+                font-family: "Lexend", sans-serif;}
+        #mega {font-family: "Lexend Mega", sans-serif;}
+       
+input {width: 800px;
+    border: #F8B8D3;}
+
+body {margin: 0%;}
+
+.bntTroca{
+    border: none;
+    background-color: #ffcbdf;
+    }
+a{
+        color: white;
+        text-decoration: none;
+        font-family: "Lexend Deca", sans-serif;
+}
